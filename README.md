@@ -17,5 +17,6 @@ There is a Visual Studio 2015 project included providing an usage example which 
 This implementation is released under the MIT licence.
 
 ## TODOs
-Support for general callbacks and lambdas.
+ - Support for general callbacks and lambdas.
+ - Add higher resolutions
 
